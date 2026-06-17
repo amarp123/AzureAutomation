@@ -20,3 +20,4 @@ jobs:
 
       - name: Run Python File
         run: python app.py
+        
